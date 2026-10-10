@@ -1,0 +1,1 @@
+for _, inserter in pairs(data.raw.inserter) do inserter.energy_source = { type = "void" } end
